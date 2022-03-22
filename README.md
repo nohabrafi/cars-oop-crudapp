@@ -1,6 +1,6 @@
 # cars-oop-crudapp
 
-This is a simple REST application that was written using object-oriented PHP. It is able to Create, Update, Read and Delete.
+This is a simple REST application that was written using object-oriented PHP and some javascript. It is able to Create, Update, Read and Delete.
 
 
 ![1](https://user-images.githubusercontent.com/93218724/159558227-05539fa9-585b-4e9a-a770-3a5a8988b43b.png)
